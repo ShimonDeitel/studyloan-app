@@ -1,0 +1,40 @@
+{
+  "identifier": "6C1A0000-0000-0000-0000-000000000001",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "6C1A0001",
+      "localizations": [],
+      "name": "Studyloan Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "6C1A0002",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Combined payoff projection and interest-paid totals",
+              "displayName": "Studyloan Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.studyloan.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Studyloan Pro Monthly",
+          "subscriptionGroupID": "6C1A0001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
