@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: StudyloanTests
-      - path: Studyloan.storekit
     dependencies:
       - target: Studyloan
     settings:
